@@ -1,9 +1,9 @@
 # 💫About Me :
-Hi 👋, I'm Huy
+👋 Hi, I'm Huy
 
-🔭 I’m currently learning on FPT University
+🎓 I graduated from FPT University.
 
-🌱 I’m currently learning Unity
+🌱 I'm currently working as a Unity Developer.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/manhhuy230903) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ngomanhhuy2309) 
